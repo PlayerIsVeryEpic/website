@@ -11,6 +11,7 @@ window.addEventListener('scroll', function() {
     }
 });
 
+/* adjusted page size */
 var hero = document.querySelector(".hero")
 window.addEventListener('resize', function() {
     resizeImage()
